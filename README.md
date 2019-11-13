@@ -16,7 +16,7 @@ For User
 ----------
 
 Open Your browser put inside browser �http://localhost/library�
-Login Details for user:�jlukondo5@gmail.com, Password: 1234
+Login Details for user:�user@gmail.com, Password: 1234
 
 ----------------
 For Admin Panel
